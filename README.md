@@ -19,4 +19,5 @@ Epoch 18: val_loss decreased to 0.6468.
 4. Performed validation and saved predictions.
 5. Implemented visualization of results through "clip visualization."
 6. Calculated the final SiBaTrAcc metric, which scored 0.817.
+
 This indicates progress in training the model, although some instability was observed, requiring further analysis of the data and hyperparameters.
